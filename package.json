@@ -1,0 +1,23 @@
+{
+  "name": "eternalmind",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaskrish/eternalmind.git"
+  },
+  "keywords": [],
+  "author": "shankar k <shankar.krishnaiah@prenetics.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaskrish/eternalmind/issues"
+  },
+  "homepage": "https://github.com/kaskrish/eternalmind#readme",
+  "dependencies": {
+    "got": "^11.8.0"
+  }
+}
