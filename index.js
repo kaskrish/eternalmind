@@ -1,4 +1,4 @@
-const API_KEY = `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`;
+const API_KEY = `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`;
 const got = require('got');
 const prompt = `Artist: Megadeth\n\nLyrics:\n`;
 

@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/kaskrish/eternalmind#readme",
   "dependencies": {
-    "got": "^11.8.0"
+    "got": "^11.8.0",
+    "openai": "3.2.1"
   }
 }
